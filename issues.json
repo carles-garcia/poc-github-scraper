@@ -1,0 +1,12 @@
+{
+  "keywords": [
+    "python",
+    "django-rest-framework",
+    "jwt"
+  ],
+  "proxies": [
+   "185.235.41.85:80",
+   "185.235.41.85:80"
+  ],
+  "type": "Issues"
+}
